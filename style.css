@@ -1,0 +1,12 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.main{
+    background: #FFA500;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
